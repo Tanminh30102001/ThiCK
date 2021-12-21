@@ -1,0 +1,10 @@
+D:\HuongDoiTuong\Thi CK1\Thi CK1\bin\Debug\Thi CK1.exe.config
+D:\HuongDoiTuong\Thi CK1\Thi CK1\bin\Debug\Thi CK1.exe
+D:\HuongDoiTuong\Thi CK1\Thi CK1\bin\Debug\Thi CK1.pdb
+D:\HuongDoiTuong\Thi CK1\Thi CK1\obj\Debug\Thi_CK1.Form1.resources
+D:\HuongDoiTuong\Thi CK1\Thi CK1\obj\Debug\Thi_CK1.Properties.Resources.resources
+D:\HuongDoiTuong\Thi CK1\Thi CK1\obj\Debug\Thi CK1.csproj.GenerateResource.cache
+D:\HuongDoiTuong\Thi CK1\Thi CK1\obj\Debug\Thi CK1.csproj.CoreCompileInputs.cache
+D:\HuongDoiTuong\Thi CK1\Thi CK1\obj\Debug\Thi CK1.exe
+D:\HuongDoiTuong\Thi CK1\Thi CK1\obj\Debug\Thi CK1.pdb
+D:\HuongDoiTuong\Thi CK1\Thi CK1\obj\Debug\Thi CK1.csprojAssemblyReference.cache
